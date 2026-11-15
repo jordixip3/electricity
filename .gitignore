@@ -1,0 +1,6 @@
+target/
+*.class
+node_modules/
+.DS_Store
+.idea/
+*.log
